@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ultra Engineering"
+  short_description: "Deep coding and independent review loop"
+  default_prompt: "Use $ultra-engineering to complete this repository task with independent review and fresh verification."
